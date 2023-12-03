@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,8 +12,7 @@
     <div style="max-width: 600px; margin: 0 auto; background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <img src="mypic1.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 20px;">
         <h1 style="color: #333;">Jc Magdaraog</h1>
-        <p style="color: #555; margin-bottom: 10px;">Age: 19</p>
-        <p style="color: #555; margin-bottom: 10px;">Birthday: April 2003</p>
+        <p style="color: #555; margin-bottom: 10px;">Birthday: April 3</p>
         <p style="color: #555; margin-bottom: 10px;">Address: Marilao, Bulacan</p>
 
         <div style="background-color: #e0f7fa; padding: 10px; margin: 10px 0; border-radius: 5px;">
